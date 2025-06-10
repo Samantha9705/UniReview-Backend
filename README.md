@@ -14,7 +14,7 @@ This repository contains the backend for **UniReview**, a collaborative platform
 - Gradle (build tool 🐘)
 - MySQL (base de datos en repositorio separado)
 - Postman (para pruebas de endpoints)
-- Spring Security + JWT (si aplica)
+- Spring Security + JWT
 
 ---
 
